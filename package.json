@@ -1,0 +1,29 @@
+{
+  "name": "front-app-social-network-idea",
+  "version": "1.0.0",
+  "description": "FRONT-app-social-network-idea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaelleOGER/FRONT-app-social-network-idea.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaelleOGER/FRONT-app-social-network-idea/issues"
+  },
+  "homepage": "https://github.com/GaelleOGER/FRONT-app-social-network-idea#readme",
+  "dependencies": {
+    "@angular/core": "^8.2.14",
+    "@angular/flex-layout": "^8.0.0-beta.27",
+    "@angular/forms": "^8.2.14",
+    "@angular/material": "^8.2.3",
+    "@angular/platform-browser": "^8.2.14",
+    "@ckeditor/ckeditor5-angular": "^1.1.2",
+    "ng2-search-filter": "^0.5.1",
+    "ngx-infinite-scroll": "^8.0.1"
+  }
+}
